@@ -1,0 +1,9 @@
+employee,dept,category,amount,date,city
+Ankit,Sales,Travel,3200,2025-01-03,Bangalore
+Riya,Marketing,Hotels,5400,2025-01-03,Mumbai
+Vishal,Engineering,Food,1200,2025-01-04,Delhi
+Sonal,Sales,Travel,4500,2025-01-04,Bangalore
+Arjun,Finance,Subscriptions,800,2025-01-05,Hyderabad
+Ankit,Sales,Travel,2800,2025-01-05,Chennai
+Riya,Marketing,Events,6000,2025-01-06,Mumbai
+Vishal,Engineering,Travel,3900,2025-01-06,Delhi
