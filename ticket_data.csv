@@ -1,0 +1,11 @@
+ticket_id,category,priority,created_at,resolved_at,agent,csat_score
+1001,Billing,High,2025-01-03 09:12,2025-01-03 11:45,Ashwin,5
+1002,Login,Medium,2025-01-03 10:05,2025-01-03 14:22,Riya,4
+1003,Payments,High,2025-01-03 10:55,2025-01-03 18:40,John,2
+1004,Product,Low,2025-01-03 11:12,2025-01-04 09:30,Vishal,5
+1005,Billing,High,2025-01-03 12:25,2025-01-03 13:10,Ashwin,3
+1006,Technical,Medium,2025-01-03 13:44,2025-01-03 17:55,Riya,4
+1007,Payments,Medium,2025-01-04 09:18,2025-01-04 13:10,Vishal,5
+1008,Technical,High,2025-01-04 10:30,2025-01-04 16:45,John,3
+1009,Product,Low,2025-01-04 14:00,2025-01-05 09:20,Ashwin,5
+1010,Billing,Medium,2025-01-05 10:15,2025-01-05 13:50,Riya,4
