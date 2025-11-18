@@ -5,12 +5,12 @@ This repository demonstrates how to convert raw operational data into dashboards
 
 📊 What This Repo Demonstrates
 
-✔ Clean and prepare raw datasets
-✔ Analyze ticket volume, funnel performance, and spend patterns
-✔ Build lightweight segmentation logic
-✔ Generate charts that resemble PM dashboards
-✔ Think in systems and extract meaningful insights
-✔ Work with CSVs, Python, and basic analytics tooling
+1. Clean and prepare raw datasets
+2. Analyze ticket volume, funnel performance, and spend patterns
+3. Build lightweight segmentation logic
+4. Generate charts that resemble PM dashboards
+5. Think in systems and extract meaningful insights
+6. Work with CSVs, Python, and basic analytics tooling
 
 ```
 📁 Repository Structure
