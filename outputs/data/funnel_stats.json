@@ -1,0 +1,17 @@
+{
+    "conversion_rates_percent": {
+        "Landing": 70.0,
+        "Signup": 60.0,
+        "Onboarding": 61.9,
+        "Activation": 50.0,
+        "Paid": 46.15
+    },
+    "dropoff_rates_percent": {
+        "Landing": 30.0,
+        "Signup": 40.0,
+        "Onboarding": 38.1,
+        "Activation": 50.0,
+        "Paid": 53.85
+    },
+    "overall_completion_rate_percent": 6.0
+}
