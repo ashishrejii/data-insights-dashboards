@@ -1,0 +1,16 @@
+priority,ticket_count,segment_type
+High,4,priority
+Medium,4,priority
+Low,2,priority
+Billing,3,category
+Login,1,category
+Payments,2,category
+Product,2,category
+Technical,2,category
+High Satisfaction,6,csat_band
+Neutral,1,csat_band
+Low Satisfaction,3,csat_band
+Ashwin,3,agent_workload
+Riya,3,agent_workload
+John,2,agent_workload
+Vishal,2,agent_workload
