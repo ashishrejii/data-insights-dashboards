@@ -81,3 +81,57 @@ Located inside:
 outputs/data/
 outputs/charts/
 ```
+
+# 🔍 Insights Discovered from the Data
+
+### 1. Ticket Analysis
+- Billing & Payments drive the most tickets  
+- Peak volume on Jan 3rd  
+- Average resolution time: 7.08 hours  
+- CSAT: 60% High, 10% Neutral, 30% Low  
+- High-priority + Technical issues correlate with lower CSAT  
+
+### 2. Funnel Analysis
+- Major drop occurs during Signup → Onboarding  
+- Activation has 50% dropoff  
+- Overall funnel completion is 6%  
+
+### 3. Segmentation Insights
+- High-priority tickets cluster around Billing/Payments  
+- Agent workload is balanced  
+- Low CSAT correlates with slow resolution (>6 hours)
+
+# 🚀 How to Run This Project
+```
+git clone https://github.com/ashishrejii/data-insights-dashboards.git
+
+pip install pandas matplotlib
+python <script_name>.py
+```
+
+Output files appear in:
+- outputs/data/  
+- outputs/charts/
+
+
+# 🧠 Skills Demonstrated
+- Data cleaning  
+- SLA and ticket analysis  
+- Funnel metrics & conversion analysis  
+- Segmentation logic  
+- Visualization  
+- Insight storytelling  
+- Systems & product thinking  
+
+
+# 🎯 Why This Repo Matters for PM Roles
+This repo shows that I can:
+
+- Turn raw data into insights  
+- Build lightweight dashboards  
+- Understand support patterns and customer behavior  
+- Identify bottlenecks  
+- Communicate insights clearly  
+- Think like a data-driven PM  
+
+
