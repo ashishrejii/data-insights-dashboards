@@ -1,5 +1,11 @@
 Data Insights Dashboards
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![Pandas](https://img.shields.io/badge/Library-Pandas-yellow)
+![Matplotlib](https://img.shields.io/badge/Charts-Matplotlib-orange)
+![Category](https://img.shields.io/badge/Type-Data_Analysis-green)
+![Focus](https://img.shields.io/badge/PM-Skills_Development-purple)
+
 A lightweight analytics and insights toolkit built for Product Managers, CSMs, and Product Analysts.
 This repository demonstrates how to convert raw operational data into dashboards, insights, and clean visual outputs — using simple, production-friendly Python scripts.
 
